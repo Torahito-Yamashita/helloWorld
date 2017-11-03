@@ -1,2 +1,4 @@
 # helloWorld
-Collect ideas here
+Collect ideas here!
+
+Start collect ideas here.
